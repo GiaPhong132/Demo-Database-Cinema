@@ -1,5 +1,5 @@
 # Demo-Database-Cinema
-This is a project that demo PHP code linked with MySQL.
+PHP code linked with MySQL.
 
   You can run this application with Xampp. You can find the way to run code PHP with Xampp on Youtube.
 
