@@ -9,4 +9,4 @@ PHP code linked with MySQL.
 
   You can import cinemaALL.sql to phpMyAdmin to get all data about this application. If this is not work, you can import sequentially files .sql. Notice that, there are many constraint about attribute, Foreign Key.
 
-  After all, open browser and type directory to index.html, e.g "http://localhost/YourDirectory/index.html" and enjoy that.
+  After all, open browser and type directory to index.html, e.g "http://localhost/Demo-Database-Cinema/index.html" and enjoy that.
